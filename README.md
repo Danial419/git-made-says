@@ -1,2 +1,2 @@
 # git-made-says
-this is  a githuh
+this is  a
